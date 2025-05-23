@@ -10,13 +10,6 @@ setwd("C:/Users/madle/OneDrive - UvA/Documents/Data Management and Visualisation
 library(dplyr)
 library(ggplot2)
 library(grafify)
-library(usethis)
-
-#git
-
-edit_git_config()
-use_git()
-
 
 #read in csv data file
 

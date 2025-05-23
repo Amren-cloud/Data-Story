@@ -12,6 +12,12 @@ library(ggplot2)
 library(grafify)
 library(usethis)
 
+#git
+
+edit_git_config()
+use_git()
+
+
 #read in csv data file
 
 gamedata <- read.csv("gamedata02052025.csv", header = TRUE, sep = ",")

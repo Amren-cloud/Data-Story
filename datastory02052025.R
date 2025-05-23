@@ -4,13 +4,13 @@ getwd()
 
 #setting working directory
 
-setwd("C:/Users/madle/OneDrive - UvA/Documents/Data Management and Visualisation")
+setwd("C:/Users/madle/OneDrive - UvA/Documents/Data Management and Visualisation/Git Repositories/Data Story/Data-Story")
 
 #installing and loading packages
 library(dplyr)
 library(ggplot2)
 library(grafify)
-
+library(usethis)
 
 #read in csv data file
 
